@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+.container{
+    color: black;
+    background-color: #faf0fa;
+}
+
+.container-fluid{
+    color: black;
+    background-color: rgb(225, 251, 255);
+}
